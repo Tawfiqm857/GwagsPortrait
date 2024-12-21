@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="jscript.css">
+    <link rel="stylesheet" href="headerStyles.css">
+</head>
+<body>
+        <!-- LOGO CONTAINER -->
+<div class="logo-container">
+    <div class="logo">
+        <img src="GawgaPortraitLogo.jpg" alt="logo" width="100%">
+    </div>
+</div>
+
+<!-- END OF LOGO CONTAINER -->
+
+<!-- ====================================================== -->
+<div class="about-page">
+    
+<!-- NAVIGATION BAR -->
+<nav>
+    <div class="bugger-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <a href="jscript.html">Posts</a>
+    <a href="#">People</a>
+    <a href="#">Places</a>
+    <a href="#">About</a>
+    <a href="#">SignUp/LogIn</a>
+</nav>
+
+<!-- END OF NAVIGATION BAR -->
+
+<!-- ABOUT PAGE (Mobile Only) -->
+<div class="about-hero-section">
+    <!-- HERO IMAGE SECTION -->
+    <section class="aboutHeroSection">
+        <img src="https://your-image-url.com/hero-image.jpg" alt="Gwagwalada" class="heroImage">
+        <div class="heroText">
+            <h2>Explore Gwagwalada</h2>
+            <p>
+                The perfect blend of adventure, growth, and community where every corner sparks excitement and new possibilities!
+                A place where every street tells a story of progress and every moment inspires.
+            </p>
+        </div>
+    </section>
+
+    <!-- ABOUT TEXT AND IMAGES -->
+    <section class="about-section">
+        <div class="about-text">
+            <h3>About Gwagwalada</h3>
+            <p>
+                Gwagwalada, often referred to as "Gwags," is a vibrant town in Nigeria's Federal Capital Territory, offering a blend of natural beauty and modern development. From bustling markets to tranquil natural spots, there's something here for everyone.
+            </p>
+            <p>
+                Gwagwalada is known for its growth, community, and dynamic atmosphere. It’s a place where nature meets development, where tradition meets modernity, and where every visit brings new possibilities.
+            </p>
+            <p>
+                It is a growing town with a significant population, playing an important role in Abuja's development. Whether you're here for business, tourism, or just to enjoy the quiet, Gwagwalada is full of opportunities for everyone.
+            </p>
+            <button class="btn">Learn More</button>
+        </div>
+        <div class="about-images">
+            <img src="https://your-image-url.com/image1.jpg" alt="Gwagwalada View">
+            <img src="https://your-image-url.com/image2.jpg" alt="Gwagwalada Map">
+        </div>
+    </section>
+<!-- ABOUT PAGE -->
+<div class="about-hero-section">
+    <!-- HERO IMAGE SECTION -->
+    <section class="hero-section">
+        <img src="https://your-image-url.com/hero-image.jpg" alt="Gwagwalada" class="hero-image">
+        <div class="hero-text">
+            <h2>Explore Gwagwalada</h2>
+            <p>
+                The perfect blend of adventure, growth, and community where every corner sparks excitement and new possibilities!
+                A place where every street tells a story of progress and every moment inspires.
+            </p>
+        </div>
+    </section>
+
+    <!-- ABOUT TEXT AND IMAGES -->
+    <section class="about-section">
+        <div class="about-text">
+            <h3>About Gwagwalada</h3>
+            <p>
+                Gwagwalada, often referred to as "Gwags," is a vibrant town in Nigeria's Federal Capital Territory, offering a blend of natural beauty and modern development. From bustling markets to tranquil natural spots, there's something here for everyone.
+            </p>
+            <p>
+                Gwagwalada is known for its growth, community, and dynamic atmosphere. It’s a place where nature meets development, where tradition meets modernity, and where every visit brings new possibilities.
+            </p>
+            <p>
+                It is a growing town with a significant population, playing an important role in Abuja's development. Whether you're here for business, tourism, or just to enjoy the quiet, Gwagwalada is full of opportunities for everyone.
+            </p>
+            <button class="btn">Learn More</button>
+        </div>
+        <div class="about-images">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.YxRx7AW1ncecbeYS44H9ZQHaEK&pid=Api" alt="Gwagwalada View" width="100%">
+            <img src="https://tse4.mm.bing.net/th?id=OIP.h64gOOZE2AzF5AtEhpEKoQHaF8&pid=Api" alt="Gwagwalada Map" width="100%">
+        </div>
+    </section>
+
+    <!-- LOCAL ATTRACTIONS -->
+    <section class="about-attractions">
+        <h3>Local Attractions</h3>
+        <div class="attractions-list">
+            <div class="attraction">
+                <img src="https://your-image-url.com/attraction1.jpg" alt="Usman Dam">
+                <p><strong>Usman Dam</strong>: A scenic place perfect for relaxation and views of the surrounding landscape.</p>
+            </div>
+            <div class="attraction">
+                <img src="https://th.bing.com/th/id/OIP.rMuJ9p857qlcyQcydOL5ygHaE8?w=1024&h=683&rs=1&pid=ImgDetMain" width="100%" alt="University of Abuja">
+                <p><strong>University of Abuja (Mini-Campus)</strong>: A prestigious educational institution that contributes to the town’s growth.</p>
+            </div>
+            <div class="attraction">
+                <img src="https:DA" alt="Gwako Hills">
+                <p><strong>Gwako Hills</strong>: A popular spot for hiking and stunning panoramic views.</p>
+            </div>
+            <div class="attraction">
+                <img src="gwako.jpg" width="100%">
+                <p><strong>Gwagwalada Market</strong>: A lively market offering fresh produce and traditional crafts.</p>
+            </div>
+        </div>
+    </section>
+</div>
+    </section>
+</div>
+
+
+</div>
+</body>
+</html>
