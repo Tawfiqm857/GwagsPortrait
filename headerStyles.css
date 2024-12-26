@@ -61,3 +61,16 @@ animation:fade normal 3s linear;
     50%{opacity: 0.4;}
     100%{opacity: 1;}
 }
+
+/* Footer Styles */
+
+footer{
+background: var(--bgColor);
+color: var(--h1Color);
+text-align: center;
+position: fixed;
+bottom: 0;
+left: 0;
+right: 0;
+margin-top: 2rem;
+}
