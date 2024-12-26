@@ -45,3 +45,19 @@ text-decoration: none;
 font-size: 5dvw;
 color: var(--textColor);
 }
+/* PopOver Menu */
+
+#pop{
+    a{color: var(--h1Color);display: flex;flex-direction: column;}
+background: var(--bgColor);
+margin: 0;
+top:25%;
+left:10%;
+animation:fade normal 3s linear;
+}
+
+@keyframes fade {
+    from{opacity: 0;}
+    50%{opacity: 0.4;}
+    100%{opacity: 1;}
+}
