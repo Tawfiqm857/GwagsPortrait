@@ -56,14 +56,9 @@ background: var(--bgColor);
 margin: 0;
 top:25%;
 left:10%;
-animation:fade normal 3s linear;
 }
 
-@keyframes fade {
-    from{opacity: 0;}
-    50%{opacity: 0.4;}
-    100%{opacity: 1;}
-}
+
 
 /* Footer Styles */
 
