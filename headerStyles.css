@@ -29,15 +29,6 @@ padding-top: 0.2em;
 border: none;
 outline: none;
 background: transparent;
-
-/* Span Elements In Bugger-Menu */
-span{
-width: 100%;
-height: 45%;
-background-color: var(--bgColor);
-
-}
-
 }
 
 
