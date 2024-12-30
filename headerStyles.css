@@ -67,13 +67,17 @@ margin-top: 2rem;
 
 /* PopOver Menu */
 
-#pop{
+#menuItems{
     a{color: var(--h1Color);display: flex;flex-direction: column;}
 background: var(--bgColor);
 margin: 0;
 top:25%;
 left:10%;
-animation:fade normal 3s linear;
+
+}
+
+.aminatePopOver{
+    animation:fade normal 3s linear;
 }
 
 @keyframes fade {
