@@ -50,13 +50,7 @@ color: var(--textColor);
 }
 /* PopOver Menu */
 
-#pop{
-    a{color: var(--h1Color);display: flex;flex-direction: column;}
-background: var(--bgColor);
-margin: 0;
-top:25%;
-left:10%;
-}
+
 
 
 
