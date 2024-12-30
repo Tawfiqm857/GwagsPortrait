@@ -133,3 +133,37 @@
         img{padding-top:0.2em;}
         }
 
+
+/* PopOver Menu */
+
+.popover{display: none;}
+
+
+.popOver {
+    display: block; /* Display the popover when this class is added */
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    background: var(--bgColor);
+    margin: 0;
+    animation: fade 3s linear;
+}
+
+.popOver a {
+    color: var(--h1Color);
+    display: flex;
+    flex-direction: column;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0.4;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
