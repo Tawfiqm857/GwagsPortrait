@@ -67,7 +67,7 @@ margin-top: 2rem;
 
 /* PopOver Menu */
 
-#menuItems{
+#menuItems{display:none;
     a{color: var(--h1Color);display: flex;flex-direction: column;}
 background: var(--bgColor);
 margin: 0;
